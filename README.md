@@ -3,7 +3,6 @@
 # Hi there, I'm Kristen 👋
 
 ### 💡 Product Manager | AI Product | Product Operations
-**西南财经大学 · 金融数学 | 专注于 AI 应用落地、数据驱动产品设计与端到端敏捷交付**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Online_Portfolio-作品集在线直达-2563EB?style=for-the-badge)](https://kristen7416.github.io/portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-kristen7416-181717?style=for-the-badge&logo=github)](https://github.com/kristen7416)
