@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Kristen (Kristen Wang) 👋
+# Hi there, I'm Kristen 👋
 
 ### 💡 Product Manager | AI Product | Product Operations
 **西南财经大学 · 金融数学 | 专注于 AI 应用落地、数据驱动产品设计与端到端敏捷交付**
@@ -17,6 +17,7 @@
 
 | 项目名称 | 核心简介 | 技术栈与特性 | 🔗 在线预览 / 体验 | 🐙 源码仓库 |
 | :--- | :--- | :--- | :--- | :--- |
+| **🤖 Universal Growth Agent** | 全能出海增长与全渠道运营 AI 智能体套件，开箱即用的社区定向搜帖获客（Reddit/Quora/X）、跨平台内容矩阵与高转化落地页框架。 | `AI Agent` `Growth` `Python` `Prompt Engineering` | [📖 查看项目指南](https://github.com/kristen7416/universal-growth-agent#readme) | [`kristen7416/universal-growth-agent`](https://github.com/kristen7416/universal-growth-agent) |
 | **🎨 个人产品与运营全景作品集** | 集中展示高校新媒体爆款推文、品牌视觉体系、出海应用落地及全栈站点矩阵的在线作品集。 | `HTML5` `CSS3` `GitHub Pages` `响应式布局` | [👉 立即在线浏览](https://kristen7416.github.io/portfolio/) | [`kristen7416/portfolio`](https://github.com/kristen7416/portfolio) |
 | **🚀 SWUFE Club News** | 高校社团动态与活动预告轻量资讯聚合站，采用 Vibecoding 思想全栈独立落地，解决高校信息分散痛点。 | `Python` `Vercel` `HTML5` `资讯聚合` | [🚀 线上直接访问](https://swufe-club-news.vercel.app) | [`kristen7416/swufe-club-news`](https://github.com/kristen7416/swufe-club-news) |
 | **🏦 SuccessBank 成功银行** | 正向习惯培养与心理成就激励小程序，基于 Taro 跨端编译为 H5 Web 端，支持成就花园与多维积分交互。 | `Taro` `React` `TypeScript` `TailwindCSS` | [📱 在线交互体验](https://kristen7416.github.io/successbank/) | [`kristen7416/successbank`](https://github.com/kristen7416/successbank) |
@@ -43,5 +44,5 @@
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by Kristen (Kristen Wang) · 欢迎交流与合作 🤝</sub>
+  <sub>Built with ❤️ by Kristen · 欢迎交流与合作 🤝</sub>
 </div>
